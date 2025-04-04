@@ -9,14 +9,17 @@
 
 ### 🚀 Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-![VHDL](https://img.shields.io/badge/-VHDL-333333?style=flat)
-![Verilog](https://img.shields.io/badge/-Verilog/SystemVerilog-333333?style=flat)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/VHDL_logo.svg" alt="VHDL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Verilog_logo.svg" alt="Verilog/SystemVerilog" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
 
 ---
 
